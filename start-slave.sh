@@ -1,1 +1,1 @@
-java -jar rt-node-master/build/libs/rt-node-master-0.2.0.jar
+nohup java -jar rt-node-slave/build/libs/rt-node-slave-0.2.0.jar > slave.log &
